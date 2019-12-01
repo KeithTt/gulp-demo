@@ -1,6 +1,6 @@
 {
   "name": "gulp-demot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,11 @@
     "dev": "gulp",
     "build": "gulp build"
   },
-  "author": "",
+  "keywords": [
+    "gulp",
+    "babel"
+  ],
+  "author": "KeithTt",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^9.5.1",

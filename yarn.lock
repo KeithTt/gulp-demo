@@ -2859,18 +2859,6 @@ gulp-connect@^5.7.0:
     serve-static "^1.13.2"
     tiny-lr "^1.1.1"
 
-gulp-demot@^0.0.0:
-  version "0.0.0"
-  resolved "https://registry.npmjs.org/gulp-demot/-/gulp-demot-0.0.0.tgz#f9815506a1f0ceb1d78e7e44ddd5865d3c82d611"
-  integrity sha512-NPD7zGZY4PJKg8d9wEf/q8qYBcYsHPjk+jRgAqjybiHyBkrZsG1fcH8dCt967ptBHxFeanmIyE/DB4Lo9UF/uA==
-  dependencies:
-    "@babel/core" "^7.7.4"
-    "@babel/plugin-transform-runtime" "^7.7.4"
-    "@babel/preset-env" "^7.7.4"
-    "@babel/runtime" "^7.7.4"
-    gulp-babel "^8.0.0"
-    less-plugin-autoprefix "^2.0.0"
-
 gulp-htmlmin@^5.0.1:
   version "5.0.1"
   resolved "https://registry.npm.taobao.org/gulp-htmlmin/download/gulp-htmlmin-5.0.1.tgz#90fc5e8ad0425a9e86d5d521427184e7276365e7"
