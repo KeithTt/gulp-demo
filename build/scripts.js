@@ -11,9 +11,9 @@ function miniJS (done) {
       presets: ['@babel/env'],
       plugins: ['@babel/transform-runtime']
     }))
-    .pipe(concat('main.js'))
+    // .pipe(concat('main.js'))
     .pipe(uglify())
-    .pipe(rename('main.min.js'))
+    // .pipe(rename('main.min.js'))
     .pipe(gulp.dest('dist/js'))
     .pipe(connect.reload());
   done();
